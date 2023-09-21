@@ -1,18 +1,25 @@
-### Hi there 👋
+# 💫 About Me:
+### Merhaba, Ben Kübra 👋
+📚 Bülent Ecevit Üniversitesinde Bilgisayar Mühendisliği okuyorum.
+👯 İşbirliği yapmak istiyorum.
+🤝 Ekip çalışmalarından hoşlanıyorum.
+🌱 Öğrenme ve geliştirme aşamasındayım.
+🔒 Siber Güvenlik konusunda orta derece deneyime sahibim.
+🐍 Python programlama dili ve tool geliştirme konularında ileri düzeyde ilgileniyorum.
+💬 Benimle iletişime geçebilirsiniz!
+- Linkedln: https://www.linkedin.com/in/k%C3%BCbra-kara-394850/
+GitHub profilimde açık kaynak projelere katkı sağlamaktan ve kendi projelerimi paylaşmaktan keyif alıyorum. Teknoloji dünyasına katkıda bulunmayı ve yeni şeyler öğrenmeyi seviyorum. Ayrıca, yazılım geliştirme süreçlerine ve siber güvenliğe olan ilgimle sürekli olarak kendimi geliştirmeye çalışıyorum.
+Eğer bir projeye katkıda bulunmak veya herhangi bir konuda iletişime geçmek isterseniz, lütfen benimle iletişime geçmekten çekinmeyin. Açık kaynak topluluğuna katkı sağlamak için her zaman açığım.
+Profilimi ziyaret ettiğiniz için teşekkür ederim ve hoş geldiniz!
 
-<!--
-**Kubrakara/KubraKara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KubraKara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KubraKara&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KubraKara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Here are some ideas to get you started:
+---
+[![](https://visitcount.itsvg.in/api?id=KubraKara&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/Kubrakara/KubraKara)](https://github.com/Kubrakara/KubraKara) 
