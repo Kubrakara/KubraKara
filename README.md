@@ -6,6 +6,7 @@
 - 🌱 Öğrenme ve geliştirme aşamasındayım.
 - 🔒 Siber Güvenlik konusunda orta derece deneyime sahibim.
 - 🐍 Python programlama dili ve tool geliştirme konularında ileri düzeyde ilgileniyorum.
+- 📱 Android Studio Kotlin ile uygulama geliştiriyorum.
 - 💬 Benimle iletişime geçebilirsiniz!
 - Linkedln: https://www.linkedin.com/in/kübra-kara-394850/
 - GitHub profilimde açık kaynak projelere katkı sağlamaktan ve kendi projelerimi paylaşmaktan keyif alıyorum. Teknoloji dünyasına katkıda bulunmayı ve yeni şeyler öğrenmeyi seviyorum. Ayrıca, yazılım geliştirme süreçlerine ve siber güvenliğe olan ilgimle sürekli olarak kendimi geliştirmeye çalışıyorum.
