@@ -5,10 +5,12 @@
 - 🤝 Ekip çalışmalarından hoşlanıyorum.
 - 🌱 Öğrenme ve geliştirme aşamasındayım.
 - 🔒 Siber Güvenlik konusunda orta derece deneyime sahibim.
-- 🐍 Python programlama dili ve tool geliştirme konularında ileri düzeyde ilgileniyorum.
+- 🐍 Python programlama dili ve kütüphaneleri ile ileri düzeyde ilgileniyorum.
+- ✅Python Tool geliştirmeleri ile uğraşıyorum.
 - 📱 Android Studio Kotlin ile uygulama geliştiriyorum.
 - 💬 Benimle iletişime geçebilirsiniz!
 - Linkedln: https://www.linkedin.com/in/kübra-kara-394850/
+- Mail: kubra26kara@gmail.com
 - GitHub profilimde açık kaynak projelere katkı sağlamaktan ve kendi projelerimi paylaşmaktan keyif alıyorum. Teknoloji dünyasına katkıda bulunmayı ve yeni şeyler öğrenmeyi seviyorum. Ayrıca, yazılım geliştirme süreçlerine ve siber güvenliğe olan ilgimle sürekli olarak kendimi geliştirmeye çalışıyorum.
 - Eğer bir projeye katkıda bulunmak veya herhangi bir konuda iletişime geçmek isterseniz, lütfen benimle iletişime geçmekten çekinmeyin. Açık kaynak topluluğuna katkı sağlamak için her zaman açığım.
 - Profilimi ziyaret ettiğiniz için teşekkür ederim ve hoş geldiniz!
