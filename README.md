@@ -4,7 +4,6 @@
 # 💫 About Me:
 ### Merhaba, Ben Kübra 👋
 - 📚 Bülent Ecevit Üniversitesinde Bilgisayar Mühendisliği okuyorum.
-# 💫 About Me:<br>
 🔭 Şu anda üzerinde çalışıyorum:<br>
 - İleri düzey web geliştirme projeleri (React, Node.js, Next.js, HTML, CSS, JavaScript).
 - Kotlin ile mobil uygulama geliştirme.
