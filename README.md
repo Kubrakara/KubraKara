@@ -1,6 +1,3 @@
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/Kubrakara/KubraKara)](https://github.com/Kubrakara/KubraKara) 
-
 # 💫 About Me:
 ### Merhaba, Ben Kübra 👋  
 - 📚 **Bülent Ecevit Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim.  
