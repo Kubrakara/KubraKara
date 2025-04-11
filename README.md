@@ -1,5 +1,5 @@
-# 💫 About Me:
-### Merhaba, Ben Kübra 👋  
+# About Me:
+### Merhaba, Ben Kübra  
 - 📚 **Bülent Ecevit Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim.  
 
 ## 🔭 Şu anda üzerinde çalışıyorum:  
