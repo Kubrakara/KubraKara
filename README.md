@@ -20,11 +20,6 @@ Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme ile siber güv
 - UI/UX tasarım prensipleri
 - Ağ analizi ve güvenlik protokolleri hakkında derinleşiyorum
 
-## 🤝 Yardım arıyorum:
-- React ve Node.js optimizasyon yöntemleri hakkında yardımlar
-- Kotlin ile mobil uygulama geliştirme süreçlerinde bilgi paylaşımı
-- Siber güvenlikte pratik uygulama ve vaka çalışmaları üzerine destek
-
 ## 💬 Bana sorabilirsiniz:
 - React, React-Native, Node.js ve Next.js projeleri hakkında
 - Kotlin ile mobil uygulama geliştirme üzerine
