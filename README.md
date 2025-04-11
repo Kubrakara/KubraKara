@@ -28,7 +28,6 @@
 - Kotlin kullanarak mobil uygulama geliştirme üzerine.  
 - Siber güvenlikte başlangıç ve orta düzey bilgiler.  
 
-## ⚡ İlginç bir bilgi:  
 Siber güvenlik eğitimlerim sayesinde, bilgi güvenliği ve ağ yönetimi konularında pratik deneyim kazandım. Öğrendiklerimi projelerime entegre etmeye çalışıyorum.  
 
 
