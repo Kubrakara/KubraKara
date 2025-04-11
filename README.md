@@ -1,36 +1,36 @@
-# About Me:
-### Merhaba, Ben Kübra  
-- 📚 **Bülent Ecevit Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim.  
+# Merhaba, Ben Kübra 
 
-## 🔭 Şu anda üzerinde çalışıyorum:  
-- İleri düzey **web geliştirme** projeleri (React, Node.js, Next.js, HTML, CSS, JavaScript).  
-- **Kotlin** ile mobil uygulama geliştirme.  
-- **Python** ile masaüstü araçlar ve uygulamalar geliştirme.  
-- Güvenlik ve şifreleme alanında bir **masaüstü dosya şifreleme uygulaması** geliştiriyorum.  
+Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme ile siber güvenlik konularına büyük bir tutkum var. Çeşitli projelerde web ve mobil uygulama geliştirme, API tasarımı, veri güvenliği ve makine öğrenmesi gibi alanlarda çalıştım. Şu anda, güvenli ve kullanıcı dostu dijital deneyimler sunan projeler üzerinde çalışıyorum.
 
-## 👯 İş birliği yapmak istiyorum:  
-- Web ve mobil uygulama projelerinde yazılım geliştirme.  
-- Siber güvenlik eğitimleri veya projeleri.  
-- Açık kaynak yazılım topluluklarıyla iş birliği.  
+## 🔭 Şu anda üzerinde çalışıyorum:
+- İleri düzey web geliştirme projeleri (React, React-Native,Node.js, Next.js, HTML, CSS, JavaScript)
+- React-Native ile mobil uygulama geliştirme
+- Kotlin ile mobil uygulama geliştirme
+- Python ile masaüstü araçlar ve uygulamalar geliştirme
+- Güvenlik ve şifreleme alanında dosya şifreleme uygulamaları üzerinde çalışıyorum
 
-## 🤝 Yardım arıyorum:  
-- İleri düzey React ve Node.js konularında **optimizasyon yöntemleri**.  
-- Kotlin ile **mobil uygulama geliştirme süreçleri**.  
-- Siber güvenlikte **pratik uygulama ve vaka çalışmaları**.  
+## 👯 İş birliği yapmak istiyorum:
+- Web ve mobil uygulama projelerinde yazılım geliştirme
+- Siber güvenlik eğitimleri ve projeleri üzerine iş birliği
+- Açık kaynak yazılım topluluklarıyla projeler geliştirme
 
-## 🌱 Şu anda öğreniyorum:  
-- **Next.js** framework ile uygulama geliştirme.  
-- Mobil uygulamalar için **UI/UX tasarım prensipleri**.  
-- Siber güvenlikte **ağ analizi ve güvenlik protokolleri**.  
+## 🌱 Şu anda öğreniyorum:
+- Next.js framework ile uygulama geliştirme
+- React-Native Expo ile uygulama geliştirme
+- UI/UX tasarım prensipleri
+- Ağ analizi ve güvenlik protokolleri hakkında derinleşiyorum
 
-## 💬 Bana sorabilirsiniz:  
-- React, Node.js ve Next.js projeleri hakkında.  
-- Kotlin kullanarak mobil uygulama geliştirme üzerine.  
-- Siber güvenlikte başlangıç ve orta düzey bilgiler.  
+## 🤝 Yardım arıyorum:
+- React ve Node.js optimizasyon yöntemleri hakkında yardımlar
+- Kotlin ile mobil uygulama geliştirme süreçlerinde bilgi paylaşımı
+- Siber güvenlikte pratik uygulama ve vaka çalışmaları üzerine destek
 
-Siber güvenlik eğitimlerim sayesinde, bilgi güvenliği ve ağ yönetimi konularında pratik deneyim kazandım. Öğrendiklerimi projelerime entegre etmeye çalışıyorum.  
+## 💬 Bana sorabilirsiniz:
+- React, React-Native, Node.js ve Next.js projeleri hakkında
+- Kotlin ile mobil uygulama geliştirme üzerine
+- Siber güvenlikte başlangıç ve orta düzey bilgiler
 
-
+Projelerimde öğrendiklerimi uygulayarak daha güvenli ve verimli yazılımlar geliştirmeye çalışıyorum. İleriye dönük olarak **Shielera** gibi güvenlik odaklı projelerle teknolojiye katkı sağlamayı hedefliyorum.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k%C3%BCbra-kara-394850/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kubra26kara) 
