@@ -9,11 +9,6 @@ Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme ile siber güv
 - Python ile masaüstü araçlar ve uygulamalar geliştirme
 - Güvenlik ve şifreleme alanında dosya şifreleme uygulamaları üzerinde çalışıyorum
 
-## 👯 İş birliği yapmak istiyorum:
-- Web ve mobil uygulama projelerinde yazılım geliştirme
-- Siber güvenlik eğitimleri ve projeleri üzerine iş birliği
-- Açık kaynak yazılım topluluklarıyla projeler geliştirme
-
 ## 🌱 Şu anda öğreniyorum:
 - Next.js framework ile uygulama geliştirme
 - React-Native Expo ile uygulama geliştirme
