@@ -8,7 +8,7 @@ Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme ile siber güv
 - Kotlin ile mobil uygulama geliştirme
 - Python ile masaüstü araçlar ve uygulamalar geliştirme
 - Güvenlik ve şifreleme alanında dosya şifreleme uygulamaları üzerinde çalışıyorum
-- - Next.js framework ile uygulama geliştirme
+- Next.js framework ile uygulama geliştirme
 - React-Native Expo ile uygulama geliştirme
 - UI/UX tasarım prensipleri
 - Ağ analizi ve güvenlik protokolleri hakkında derinleşiyorum
