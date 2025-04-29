@@ -8,19 +8,12 @@ Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme ile siber güv
 - Kotlin ile mobil uygulama geliştirme
 - Python ile masaüstü araçlar ve uygulamalar geliştirme
 - Güvenlik ve şifreleme alanında dosya şifreleme uygulamaları üzerinde çalışıyorum
-
-## 🌱 Şu anda öğreniyorum:
-- Next.js framework ile uygulama geliştirme
+- - Next.js framework ile uygulama geliştirme
 - React-Native Expo ile uygulama geliştirme
 - UI/UX tasarım prensipleri
 - Ağ analizi ve güvenlik protokolleri hakkında derinleşiyorum
 
-## 💬 Bana sorabilirsiniz:
-- React, React-Native, Node.js ve Next.js projeleri hakkında
-- Kotlin ile mobil uygulama geliştirme üzerine
-- Siber güvenlikte başlangıç ve orta düzey bilgiler
-
-Projelerimde öğrendiklerimi uygulayarak daha güvenli ve verimli yazılımlar geliştirmeye çalışıyorum. İleriye dönük olarak **Shielera** gibi güvenlik odaklı projelerle teknolojiye katkı sağlamayı hedefliyorum.
+Projelerimde öğrendiklerimi uygulayarak daha güvenli ve verimli yazılımlar geliştirmeye çalışıyorum. İ
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k%C3%BCbra-kara-394850/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kubra26kara) 
