@@ -13,7 +13,7 @@ Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme ile siber güv
 - UI/UX tasarım prensipleri
 - Ağ analizi ve güvenlik protokolleri hakkında derinleşiyorum
 
-Projelerimde öğrendiklerimi uygulayarak daha güvenli ve verimli yazılımlar geliştirmeye çalışıyorum. İ
+Projelerimde öğrendiklerimi uygulayarak daha güvenli ve verimli yazılımlar geliştirmeye çalışıyorum. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k%C3%BCbra-kara-394850/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kubra26kara) 
