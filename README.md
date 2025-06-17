@@ -2,7 +2,7 @@
 
 Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme ile siber güvenlik konularına büyük bir tutkum var. Çeşitli projelerde web ve mobil uygulama geliştirme, API tasarımı, veri güvenliği ve makine öğrenmesi gibi alanlarda çalıştım. Şu anda, güvenli ve kullanıcı dostu dijital deneyimler sunan projeler üzerinde çalışıyorum. Ayrıca portfolyomu inceleyebilirsiniz. https://kubrakara.vercel.app/
 
-## 🔭 Şu anda üzerinde çalışıyorum:
+## 🔭 Şu anda üzerinde çalışıyorum
 - İleri düzey web geliştirme projeleri (React, React-Native,Node.js, Next.js, HTML, CSS, JavaScript)
 - React-Native ile mobil uygulama geliştirme
 - Kotlin ile mobil uygulama geliştirme
