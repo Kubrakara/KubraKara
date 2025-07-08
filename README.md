@@ -1,18 +1,6 @@
 # Merhaba, Ben Kübra 
 
-Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme ile siber güvenlik konularına büyük bir tutkum var. Çeşitli projelerde web ve mobil uygulama geliştirme, API tasarımı, veri güvenliği ve makine öğrenmesi gibi alanlarda çalıştım. Şu anda, güvenli ve kullanıcı dostu dijital deneyimler sunan projeler üzerinde çalışıyorum. Ayrıca portfolyomu inceleyebilirsiniz. 
-https://kubrakara.vercel.app/
-
-## 🔭 Şu anda üzerinde çalışıyorum
-- İleri düzey web geliştirme projeleri (React, React-Native,Node.js, Next.js, HTML, CSS, JavaScript)
-- React-Native ile mobil uygulama geliştirme
-- Kotlin ile mobil uygulama geliştirme
-- Python ile masaüstü araçlar ve uygulamalar geliştirme
-- Güvenlik ve şifreleme alanında dosya şifreleme uygulamaları üzerinde çalışıyorum
-- Next.js framework ile uygulama geliştirme
-- React-Native Expo ile uygulama geliştirme
-- UI/UX tasarım prensipleri
-- Ağ analizi ve güvenlik protokolleri hakkında derinleşiyorum
+Bilgisayar Mühendisliği mezunuyum. Web ve mobil uygulama geliştirme, siber güvenlik ve kullanıcı odaklı dijital çözümler üretme konularında deneyimliyim. React, React Native, Node.js, Next.js ve Python gibi teknolojilerle projeler geliştiriyorum. Güvenlik, dosya şifreleme ve UI/UX tasarımı üzerine çalışmalarıma devam ediyorum. 
 
 Projelerimde öğrendiklerimi uygulayarak daha güvenli ve verimli yazılımlar geliştirmeye çalışıyorum. 
 
