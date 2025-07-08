@@ -1,4 +1,4 @@
-# Merhaba, Ben Kübra 
+# ✨Merhaba, Ben Kübra 
 
 Bilgisayar Mühendisliği mezunuyum. Web ve mobil uygulama geliştirme, siber güvenlik ve kullanıcı odaklı dijital çözümler üretme konularında deneyimliyim. React, React Native, Node.js, Next.js ve Python gibi teknolojilerle projeler geliştiriyorum. Güvenlik, dosya şifreleme ve UI/UX tasarımı üzerine çalışmalarıma devam ediyorum. 
 
