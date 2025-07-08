@@ -1,8 +1,7 @@
 # ✨Merhaba, Ben Kübra 
 
-Bilgisayar Mühendisliği mezunuyum. Web ve mobil uygulama geliştirme, siber güvenlik ve kullanıcı odaklı dijital çözümler üretme konularında deneyimliyim. React, React Native, Node.js, Next.js ve Python gibi teknolojilerle projeler geliştiriyorum. Güvenlik, dosya şifreleme ve UI/UX tasarımı üzerine çalışmalarıma devam ediyorum. 
-
-Projelerimde öğrendiklerimi uygulayarak daha güvenli ve verimli yazılımlar geliştirmeye çalışıyorum. 
+Bilgisayar Mühendisliği mezunuyum. Web ve mobil uygulama geliştirme, siber güvenlik ve kullanıcı odaklı dijital çözümler üretme konularında deneyimliyim. React, React Native, Node.js, Next.js ve Python gibi teknolojilerle projeler geliştiriyorum. Güvenlik, dosya şifreleme ve UI/UX tasarımı üzerine çalışmalarıma devam ediyorum. Projelerimde öğrendiklerimi uygulayarak daha güvenli ve verimli yazılımlar geliştirmeye çalışıyorum.
+Ayrıca Git ve versiyon kontrol sistemlerini etkin bir şekilde kullanarak takım çalışmasına uyum sağlıyor, proje süreçlerini düzenli ve sürdürülebilir hale getiriyorum.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k%C3%BCbra-kara-394850/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kubra26kara) 
